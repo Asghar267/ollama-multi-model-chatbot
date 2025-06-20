@@ -13,6 +13,21 @@ Perfect for developers, researchers, and privacy-conscious users who want to exp
 ![Demo Screenshot](![image](https://github.com/user-attachments/assets/4acfbd8f-3f5e-4bb1-a581-5c739b4f6ad1)
 )
 
+![Demo Screenshot](screenshot.png![image](https://github.com/user-attachments/assets/5aff9b12-f8db-41c3-bf40-473ae468c73a)
+ ) *(Add screenshot later)*
+
+
+![Demo Screenshot](![image](https://github.com/user-attachments/assets/e3de4a39-fd2d-4906-8690-9fd879c7fe48)
+) 
+
+
+
+![Demo Screenshot](screenshot.png) *(Add screenshot later)*
+
+
+![image](https://github.com/user-attachments/assets/d0bd0f83-c85e-4386-9e65-a19051778b0f)
+
+
 
 ## Quick Start
 
