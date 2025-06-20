@@ -10,10 +10,6 @@ A privacy-preserving chatbot that runs multiple LLM models (LLaVA, Mistral, Gemm
 
 Ideal for developers, researchers, and privacy-conscious users who want to experiment with local large language models (LLMs) without relying on cloud dependencies.
 
-
-![Demo Screenshot](screenshot.png) *(Add screenshot later)*
-
-
 ![image](https://github.com/user-attachments/assets/d0bd0f83-c85e-4386-9e65-a19051778b0f)
 
 
